@@ -1,1 +1,3 @@
 # NSISInstaller
+
+Simple
